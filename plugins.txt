@@ -1,0 +1,6 @@
+embeddable-build-status:2.0
+workflow-aggregator:2.6
+job-dsl:1.72
+github-oauth:0.31
+generic-webhook-trigger:1.52
+build-pipeline-plugin:1.5.8
